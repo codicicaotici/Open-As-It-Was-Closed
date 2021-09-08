@@ -1,0 +1,10 @@
+D:\Disco_E\C#\Condividi\project_OpensAsItWasClosed\OpensAsItWasClosed\bin\Debug\OpensAsItWasClosed.exe.config
+D:\Disco_E\C#\Condividi\project_OpensAsItWasClosed\OpensAsItWasClosed\bin\Debug\OpensAsItWasClosed.exe
+D:\Disco_E\C#\Condividi\project_OpensAsItWasClosed\OpensAsItWasClosed\bin\Debug\OpensAsItWasClosed.pdb
+D:\Disco_E\C#\Condividi\project_OpensAsItWasClosed\OpensAsItWasClosed\obj\Debug\OpensAsItWasClosed.csproj.AssemblyReference.cache
+D:\Disco_E\C#\Condividi\project_OpensAsItWasClosed\OpensAsItWasClosed\obj\Debug\OpensAsItWasClosed.Form1.resources
+D:\Disco_E\C#\Condividi\project_OpensAsItWasClosed\OpensAsItWasClosed\obj\Debug\OpensAsItWasClosed.Properties.Resources.resources
+D:\Disco_E\C#\Condividi\project_OpensAsItWasClosed\OpensAsItWasClosed\obj\Debug\OpensAsItWasClosed.csproj.GenerateResource.cache
+D:\Disco_E\C#\Condividi\project_OpensAsItWasClosed\OpensAsItWasClosed\obj\Debug\OpensAsItWasClosed.csproj.CoreCompileInputs.cache
+D:\Disco_E\C#\Condividi\project_OpensAsItWasClosed\OpensAsItWasClosed\obj\Debug\OpensAsItWasClosed.exe
+D:\Disco_E\C#\Condividi\project_OpensAsItWasClosed\OpensAsItWasClosed\obj\Debug\OpensAsItWasClosed.pdb
