@@ -26,6 +26,7 @@ namespace OpensAsItWasClosed
             if (myIni.getIniValue(iniFile, settingTitle, "FormWindowState", "") == "Minimized") { this.WindowState = System.Windows.Forms.FormWindowState.Minimized; }
             if (myIni.getIniValue(iniFile, settingTitle, "FormWindowState", "") == "Normal")
             {   
+                this.WindowState = System.Windows.Forms.FormWindowState.Normal;
                 this.Left = Int32.Parse(myIni.getIniValue(iniFile, settingTitle, "MainLeft", ""));
                 this.Top = Int32.Parse(myIni.getIniValue(iniFile, settingTitle, "MainTop", ""));
                 this.Width = Int32.Parse(myIni.getIniValue(iniFile, settingTitle, "MainWidth", ""));
